@@ -1,0 +1,20 @@
+.card {
+    background-color: lightgray;
+    width: 400px;
+    padding: 18px;
+    border: 2px solid grey;
+    border-radius: 8px;
+    margin-top: 30px;
+    font-family: monospace;
+}
+
+.avatar {
+    background-color: gray;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.destaque{
+    color: darkblue;
+}
